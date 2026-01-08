@@ -8,3 +8,7 @@
 
 ### 相关文档
 项目相关说明可参考：[https://blog.csdn.net/2301_79921853/article/details/151721275?spm=1001.2014.3001.5502](https://blog.csdn.net/2301_79921853/article/details/151721275?spm=1001.2014.3001.5502)
+
+## ⭐历史Star
+
+[![Stargazers over time](https://starchart.cc/WaWaJie/OpenGL-Easy2dGame.svg?variant=adaptive)](https://starchart.cc/WaWaJie/OpenGL-Easy2dGame)
