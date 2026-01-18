@@ -1,4 +1,6 @@
 # OpenGL-Easy2dGame
+![导出关卡](https://github.com/user-attachments/assets/328c9707-15b7-435f-8eab-998583ebdfc2)
+
 基于 OpenGL 4.5 构建的轻量级 2D 游戏开发基础框架，简化 2D 游戏开发流程，核心功能如下：
 - 基于 GLAD 完成 OpenGL 4.5 核心函数加载，适配现代 OpenGL 编程规范；
 - 封装 Timer 定时器组件，支持单次/循环触发，可用于技能冷却、动画帧控制、敌人刷新等逻辑；
